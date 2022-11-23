@@ -1,0 +1,2 @@
+option('flatpak', type: 'boolean', value: false, description: 'Build as a flatpak')
+option('install_soundfont', type: 'boolean', value: true, description: 'Install a soundfont')
