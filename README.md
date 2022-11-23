@@ -1,5 +1,5 @@
 # Midualizer
-Midualizer is a free 3D&2D MIDI visualizer for Linux (and possibly for other platforms in the future).
+Midualizer is a free 3D&2D MIDI visualizer for Linux.
 
 ## Build Midualizer
 Install these dependencies:
