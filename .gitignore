@@ -1,0 +1,5 @@
+# ignore all files in directories named these
+flatpak_build/
+.flatpak-builder/
+miscellaneous/
+builddir/
