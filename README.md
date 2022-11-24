@@ -42,7 +42,7 @@ Midualizer relies on the above-mentioned dependencies and the following:
 - [GeneralUser GS soundfont](https://www.schristiancollins.com/generaluser.php)
 - [stb](https://github.com/nothings/stb)
 
-Big thanks to the developers/creaters.
+Big thanks to the developers/creators.
 
 ## License
 Midualizer is distributed under the MIT License.
