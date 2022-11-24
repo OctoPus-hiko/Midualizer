@@ -1,4 +1,4 @@
-project('midualizer', 'cpp', version: '4.1.0', default_options: 'cpp_std=c++20')
+project('midualizer', 'cpp', default_options: 'cpp_std=c++20')
 
 src = ['2d.cpp', 'attributes.cpp', 'fountain.cpp', 'generate_wav.cpp', 'gui_constructor.cpp', 'gui_functions.cpp', 'load_image.cpp', 'main.cpp', 'notes.cpp', 'prism.cpp', 'shaders.cpp', 'trackcolor.cpp', 'trackcount.cpp']
 

@@ -66,8 +66,17 @@ void GUI::td_callback(Fl_Widget* w){
         this->wall_trackcolor->redraw();
     }
     this->is_changed = true;
+    
+    if(this->td_check->value() == 1){
+        this->camera_x_input->deactivate();
+        this->camera_y_input->deactivate();
+        this->camera_z_input->deactivate();
+    }else{
+        this->camera_x_input->activate();
+        this->camera_y_input->activate();
+        this->camera_z_input->activate();
+    }
 }
-
 
 
 
