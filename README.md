@@ -5,7 +5,7 @@ Midualizer is a free 3D&2D MIDI visualizer for Linux.
 You can see demos on my [YouTube channel](https://www.youtube.com/@octopus-hiko).
 
 ## Build Midualizer
-Install these dependencies:
+First, install these dependencies:
 
 - FLTK
 - FluidSynth
@@ -37,9 +37,7 @@ In this case, to play sound, you have to put a soundfout in any of these directo
 - /usr/local/share/soundfonts
 - ~/.local/share/soundfonts
 
-and rename it "default.sf2".
-
-A symbolic link will do, too.
+and rename it "default.sf2". A symbolic link will do, too.
 
 ## Credits
 Midualizer relies on these programs among others. I appreciate them very much.
