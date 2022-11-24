@@ -7,14 +7,14 @@ You can see demos on my [YouTube channel](https://www.youtube.com/@octopus-hiko)
 ## Build Midualizer
 First, install these dependencies:
 
-- FLTK
-- FluidSynth
-- GLFW
-- GLM
-- libepoxy
-- Midifile
-- range-v3 (C++ library)
-- SFML
+- [FLTK](https://www.fltk.org/)
+- [FluidSynth](https://www.fluidsynth.org/)
+- [GLFW](https://www.glfw.org)
+- [GLM](https://github.com/g-truc/glm)
+- [libepoxy](https://github.com/anholt/libepoxy)
+- [Midifile](https://midifile.sapp.org/)
+- [range-v3](https://github.com/ericniebler/range-v3)
+- [SFML](https://www.sfml-dev.org)
 
 Then, get Midualizer's source code from this GitHub page, decompress the compressed file, and run the following commands:
 
@@ -38,17 +38,11 @@ In this case, to play sound, you have to put a soundfout in any of these directo
 and rename it "default.sf2". A symbolic link will do, too.
 
 ## Credits
-Midualizer relies on these programs among others. I appreciate them very much.
-- [FLTK](https://www.fltk.org/)
-- [FluidSynth](https://www.fluidsynth.org/)
+Midualizer relies on the above-mentioned dependencies and the following:
 - [GeneralUser GS soundfont](https://www.schristiancollins.com/generaluser.php)
-- [GLFW](https://www.glfw.org)
-- [GLM](https://github.com/g-truc/glm)
-- [libepoxy](https://github.com/anholt/libepoxy)
-- [Midifile](https://midifile.sapp.org/)
-- [range-v3](https://github.com/ericniebler/range-v3)
-- [SFML](https://www.sfml-dev.org)
 - [stb](https://github.com/nothings/stb)
+
+Big thanks for the developers/creaters.
 
 ## License
 Midualizer is distributed under the MIT License.
