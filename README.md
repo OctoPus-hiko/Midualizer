@@ -1,4 +1,4 @@
-# <img src="https://octo-translation.com/midualizer/favicon.svg" height="30" /> Midualizer
+# <img src="https://octo-translation.com/midualizer/favicon.svg" height="30" alt="Midualizer logo"/> Midualizer
 
 Midualizer is a free 3D&2D MIDI visualizer for Linux.
 
@@ -56,3 +56,10 @@ Midualizer relies on these programs among others. I appreciate them very much.
 Midualizer is distributed under the MIT License.
 
 See [here](https://octo-translation.com/midualizer/external_programs_licenses.html) for the licenses of external programs used by Midualizer.
+
+## Snapshots
+<img src="https://octo-translation.com/midualizer/snapshot1.jpg" alt="Midualizer snapshot" height="250" />
+<img src="https://octo-translation.com/midualizer/snapshot2.jpg" alt="Midualizer snapshot" height="250" />
+<img src="https://octo-translation.com/midualizer/snapshot3.png" alt="Midualizer snapshot" height="250" />
+<img src="https://octo-translation.com/midualizer/snapshot4.png" alt="Midualizer snapshot" height="250" />
+<img src="https://octo-translation.com/midualizer/snapshot5.png" alt="Midualizer snapshot" height="250" />
