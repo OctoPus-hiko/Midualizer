@@ -16,7 +16,7 @@ First, install these dependencies:
 - range-v3 (C++ library)
 - SFML
 
-Then, get Midualizer's source code from this GitHub page and run the following commands:
+Then, get Midualizer's source code from this GitHub page, decompress the compressed file, and run the following commands:
 
 ```
 cd Midualizer-XXX/src
