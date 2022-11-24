@@ -18,15 +18,13 @@ First, install these dependencies:
 
 Then, get Midualizer's source code from this GitHub page and run the following commands:
 
-`cd midualizer/src`
-
-`meson setup builddir`
-
-`cd builddir`
-
-`meson compile`
-
-`sudo meson install`
+```
+cd Midualizer-XXX/src
+meson setup builddir
+cd builddir
+meson compile
+sudo meson install
+```
 
 If you don't need to install a soundfont, use this configuration option:
 
