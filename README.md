@@ -42,14 +42,14 @@ Midualizer relies on the above-mentioned dependencies and the following:
 - [GeneralUser GS soundfont](https://www.schristiancollins.com/generaluser.php)
 - [stb](https://github.com/nothings/stb)
 
-Big thanks for the developers/creaters.
+Big thanks to the developers/creaters.
 
 ## License
 Midualizer is distributed under the MIT License.
 
 See [here](https://octo-translation.com/midualizer/external_programs_licenses.html) for the licenses of external programs used by Midualizer.
 
-## Snapshots
+## Screenshots
 <img src="https://octo-translation.com/midualizer/snapshot1.jpg" alt="Midualizer snapshot" height="250" />
 <img src="https://octo-translation.com/midualizer/snapshot2.jpg" alt="Midualizer snapshot" height="250" />
 <img src="https://octo-translation.com/midualizer/snapshot3.png" alt="Midualizer snapshot" height="250" />
