@@ -2,7 +2,7 @@
 
 Midualizer is a free 3D&2D MIDI visualizer for Linux.
 
-You can see demos on my [YouTube channel](https://www.youtube.com/@octopus-hiko).
+You can see some demos on my [YouTube channel](https://www.youtube.com/@octopus-hiko).
 
 ## Build Midualizer
 First, install these dependencies:
