@@ -256,6 +256,7 @@ void main(){
     vec3 view_direction = normalize(camera_position - fragment_position);
 
     vec3 result = calculate_pointlight(light_direction, fragment_color, norm, view_direction);
+    result = result * 0.5; // make note bars darker.
 
 
     if(time < fragment_start_end.x){
