@@ -233,6 +233,7 @@ void GUI::go_callback(Fl_Widget* w){
     }
 
     this->hide();
+    //Fl::hide_all_windows(); //function only available in FLTK 1.4 or newer
     //Fl::delete_widget(this);
 }
 

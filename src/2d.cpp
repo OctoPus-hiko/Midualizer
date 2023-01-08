@@ -459,7 +459,7 @@ void td(Td_Parameters parameters){
             }
 
 
-
+            /*
             //// fountains
             glBlendFunc(GL_SRC_ALPHA, GL_ONE); // special alpha for fountain effect
             glUseProgram(fountain_shader);
@@ -500,7 +500,7 @@ void td(Td_Parameters parameters){
                     active_fountains.erase(active_fountains.begin() + i);
                 }
             }
-
+            */
 
 
             glfwPollEvents(); // for ESC or global hot key termination
